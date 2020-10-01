@@ -1,6 +1,6 @@
 # Notepad QT/c++
 
-This is a simple notepad applicaiton with normal notepad features 
+This is a great notepad applicaiton with most of the notepad features 
 
   * Can Create New File
   * Can Open File
